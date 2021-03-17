@@ -1,1 +1,1 @@
-# ipl-t20-cricket-analysis
+# IPL T20 Cricket Analysis
